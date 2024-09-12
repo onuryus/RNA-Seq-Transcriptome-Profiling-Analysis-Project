@@ -13,6 +13,8 @@ In this project, I performed a comprehensive RNA-Seq transcriptome profiling ana
 ## Technical Details
 
 ### Software and Tools Used
+![R language](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 
 - **R Programming Language**: The primary language used for data analysis and visualization.
 - **Bioconductor Packages**: Essential for RNA-Seq data analysis.
