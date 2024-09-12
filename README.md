@@ -17,6 +17,7 @@ This portfolio presents an analysis based on the sequence data and experimental 
 The experimental setup for the analyzed data is as shown in the metadata photograph provided. In this experiment, Dexamethasone was applied to four different cell lines, and expression changes in the cells were investigated.
 <img src="pictures/system2.png" alt="volcano" width="500" />
 
+| ![volcano](pictures/article.png) | ![volcano](pictures/system2.png) |
 
 
 ## Technical Details
