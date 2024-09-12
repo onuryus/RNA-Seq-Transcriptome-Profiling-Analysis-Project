@@ -107,7 +107,7 @@ This project demonstrates a comprehensive approach to RNA-Seq data analysis, fro
 
 
 ### 8. Publication Metrics Plot
-<img src="pictures/pca.png" alt="volcano" width="500" />
+<img src="pictures/publication.png" alt="volcano" width="500" />
 
 - **Description**: The publication metrics plot displays trends and metrics related to the top gene sets over a range of years.
 - **Purpose**: To analyze the historical trends and relevance of the top gene sets in the scientific literature, providing context for their importance.
