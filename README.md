@@ -1,9 +1,4 @@
-<table>
-  <tr>
-    <td><h1>Hi there 👋  Tip Please </h1></td>
-    <td><img src="<div class="tenor-gif-embed" data-postid="10400922" data-share-method="host" data-aspect-ratio="1.57692" data-width="100%"><a href="https://tenor.com/view/dna-code-code-matrix-dna-gif-10400922">Dna Code GIF</a>from <a href="https://tenor.com/search/dna+code-gifs">Dna Code GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>" alt="Tip GIF" width="350" /></td>
-  </tr>
-</table>
+
 
 
 
