@@ -1,8 +1,10 @@
+<table>
+  <tr>
+    <td><h1>RNA-Seq Transcriptome Profiling Analysis Project </h1></td>
+    <td><img src="/pictures/genetics.gif" alt="Tip GIF" width="350" /></td>
+  </tr>
+</table>
 
-
-
-
-# RNA-Seq Transcriptome Profiling Analysis Project
 
 ## Project Overview
 
