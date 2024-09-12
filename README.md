@@ -10,6 +10,15 @@
 
 In this project, I performed a comprehensive RNA-Seq transcriptome profiling analysis to investigate the effects of Dexamethasone treatment on various cell lines. The primary aim was to identify differentially expressed genes and gain insights into the gene expression changes induced by this glucocorticoid.
 
+<img src="pictures/article.png" alt="volcano" width="500" />
+
+This portfolio presents an analysis based on the sequence data and experimental setup from the publication "RNA-Seq Transcriptome Profiling Identifies CRISPLD2 as a Glucocorticoid Responsive Gene that Modulates Cytokine Function in Airway Smooth Muscle Cells" by Himes et al. The data was obtained from Dr. Muhammad Dujana's course on Udemy: RNA-Seq Data Analysis.
+
+The experimental setup for the analyzed data is as shown in the metadata photograph provided. In this experiment, Dexamethasone was applied to four different cell lines, and expression changes in the cells were investigated.
+<img src="pictures/system2.png" alt="volcano" width="500" />
+
+
+
 ## Technical Details
 
 ### Software and Tools Used
