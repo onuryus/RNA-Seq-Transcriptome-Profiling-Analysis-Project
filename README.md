@@ -6,17 +6,24 @@
 </table>
 
 
+### Software and Tools Used
+![R language](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
+
+- **R Programming Language**: The primary language used for data analysis and visualization.
+- **Bioconductor Packages**: Essential for RNA-Seq data analysis.
+- **DESeq2**: Used for differential expression analysis of count data.
+- **clusterProfiler**: For Gene Set Enrichment Analysis (GSEA) and functional annotation.
+- **enrichplot**: To visualize enrichment results.
+- **ComplexHeatmap**: For creating heatmaps with hierarchical clustering.
+
 ## Project Overview
 
 In this project, I performed a comprehensive RNA-Seq transcriptome profiling analysis to investigate the effects of Dexamethasone treatment on various cell lines. The primary aim was to identify differentially expressed genes and gain insights into the gene expression changes induced by this glucocorticoid.
 
-<img src="pictures/article.png" alt="volcano" width="500" />
-
-This portfolio presents an analysis based on the sequence data and experimental setup from the publication "RNA-Seq Transcriptome Profiling Identifies CRISPLD2 as a Glucocorticoid Responsive Gene that Modulates Cytokine Function in Airway Smooth Muscle Cells" by Himes et al. The data was obtained from Dr. Muhammad Dujana's course on Udemy: RNA-Seq Data Analysis.
+This portfolio presents an analysis based on the sequence data and experimental setup from the publication "RNA-Seq Transcriptome Profiling Identifies CRISPLD2 as a Glucocorticoid Responsive Gene that Modulates Cytokine Function in Airway Smooth Muscle Cells" by Himes et al. The data was obtained from Dr. Muhammad Dujana's course on Udemy: [RNA-Seq Data Analysis.](https://www.udemy.com/course/rnaseq_data_analysis/?couponCode=OF83024E#instructor-1)
 
 The experimental setup for the analyzed data is as shown in the metadata photograph provided. In this experiment, Dexamethasone was applied to four different cell lines, and expression changes in the cells were investigated.
-<img src="pictures/system2.png" alt="volcano" width="500" />
-
 
 <table>
   <tr>
@@ -28,16 +35,7 @@ The experimental setup for the analyzed data is as shown in the metadata photogr
 
 ## Technical Details
 
-### Software and Tools Used
-![R language](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 
-- **R Programming Language**: The primary language used for data analysis and visualization.
-- **Bioconductor Packages**: Essential for RNA-Seq data analysis.
-- **DESeq2**: Used for differential expression analysis of count data.
-- **clusterProfiler**: For Gene Set Enrichment Analysis (GSEA) and functional annotation.
-- **enrichplot**: To visualize enrichment results.
-- **ComplexHeatmap**: For creating heatmaps with hierarchical clustering.
 
 ### Data Processing
 
