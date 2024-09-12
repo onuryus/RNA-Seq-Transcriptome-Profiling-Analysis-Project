@@ -61,46 +61,53 @@ This project demonstrates a comprehensive approach to RNA-Seq data analysis, fro
 ## Graphical Results
 
 ### 1. Volcano Plot
+<img src="pictures/volcano.png" alt="volcano" width="500" />
 
 - **Description**: This plot visualizes the relationship between log2 fold changes (x-axis) and -log10 adjusted p-values (y-axis) for all genes. The plot highlights significantly differentially expressed genes, with colors indicating significance based on adjusted p-values and fold changes.
 - **Purpose**: To quickly identify genes with substantial changes in expression and statistical significance, helping to pinpoint key genes affected by Dexamethasone treatment.
 
-### 2. PCA Plot
 
+
+### 2. PCA Plot
+<img src="pictures/pca.png" alt="volcano" width="500" />
 - **Description**: The Principal Component Analysis (PCA) plot displays the distribution of samples based on their gene expression profiles. Each point represents a sample, and the plot shows clustering patterns based on Dexamethasone treatment.
 - **Purpose**: To visualize how samples group together based on gene expression, revealing any patterns or clusters that correspond to different treatment conditions.
 
+
+
 ### 3. Heatmap
+<img src="pictures/heatmap.png" alt="volcano" width="500" />
 
 - **Description**: This heatmap illustrates the expression levels of the top 30 differentially expressed genes across different samples. Rows represent genes, and columns represent samples, with hierarchical clustering applied to both.
 - **Purpose**: To provide a clear view of gene expression patterns and identify clusters of genes and samples with similar expression profiles, highlighting the effect of Dexamethasone on gene expression.
 
 ### 4. MA Plot
+<img src="pictures/plotMA.png" alt="volcano" width="500" />
 
 - **Description**: The MA plot shows the relationship between mean expression levels and log2 fold changes. Each point represents a gene, with the x-axis indicating average expression and the y-axis indicating the fold change.
 - **Purpose**: To examine how gene expression changes with respect to the mean expression levels, helping to identify genes with strong differential expression.
 
 ### 5. Gene Set Enrichment Analysis (GSEA) Dot Plot
+<img src="pictures/dotplot.png" alt="volcano" width="500" />
 
 - **Description**: The dot plot visualizes the enrichment of different gene sets. Each dot represents a gene set, with the size and color of the dot indicating significance and the degree of enrichment.
 - **Purpose**: To identify which gene sets or pathways are significantly enriched in the differentially expressed genes, providing insights into the biological processes affected by Dexamethasone.
 
 ### 6. Gene Set Enrichment Analysis (GSEA) Network Plot
+<img src="pictures/emapplot.png" alt="volcano" width="500" />
 
 - **Description**: This network plot illustrates the relationships between enriched gene sets. Nodes represent gene sets, and edges show similarities between them based on enrichment results.
 - **Purpose**: To explore and visualize the connections between different gene sets and pathways, facilitating the understanding of their functional relationships.
 
 ### 7. Gene Set Enrichment Analysis (GSEA) Ridge Plot
+<img src="pictures/ridgeplot.png" alt="volcano" width="500" />
 
 - **Description**: The ridge plot displays the distribution of enrichment scores across different gene sets. Each ridge represents a gene set, showing how enrichment scores are distributed.
 - **Purpose**: To visualize the distribution of enrichment scores for gene sets, highlighting the variability and significance of different gene sets.
 
-### 8. Gene Set Enrichment Analysis (GSEA) Plot
 
-- **Description**: This plot visualizes the enrichment scores for a specific gene set. It shows how the gene set is distributed across the ranked list of genes.
-- **Purpose**: To focus on the enrichment of a particular gene set and understand its contribution to the overall gene expression changes.
-
-### 9. Publication Metrics Plot
+### 8. Publication Metrics Plot
+<img src="pictures/pca.png" alt="volcano" width="500" />
 
 - **Description**: The publication metrics plot displays trends and metrics related to the top gene sets over a range of years.
 - **Purpose**: To analyze the historical trends and relevance of the top gene sets in the scientific literature, providing context for their importance.
